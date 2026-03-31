@@ -1,4 +1,4 @@
-# Learn ML - Python Data Science Learning Repository
+# Data Analysis and Visualization - Learning Repository
 
 ## Overview
 A comprehensive learning repository covering essential Python data science and machine learning concepts through practical examples and projects. This repository includes lessons on NumPy, Pandas, and data visualization techniques with real-world projects.
